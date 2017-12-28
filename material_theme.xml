@@ -1,7 +1,0 @@
-<application>
-  <component name="MaterialThemeConfig">
-    <option name="version" value="1.4.6" />
-    <option name="selectedTheme" value="PALENIGHT" />
-    <option name="accentColor" value="7CB342" />
-  </component>
-</application>
