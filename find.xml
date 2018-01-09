@@ -18,10 +18,10 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*</mask>
-      <mask>*.ht</mask>
       <mask>*.</mask>
-      <mask>*.h</mask>
       <mask>*.htm</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
       <mask>*.html</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
