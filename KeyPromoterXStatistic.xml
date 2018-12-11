@@ -33,6 +33,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MiquidoDatePicker.updYearInInput should update year in input'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'MiquidoDatePicker.updYearInInput should update year in input'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
