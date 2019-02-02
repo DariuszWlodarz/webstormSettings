@@ -1,9 +1,10 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="D:/gofer/prbuddy/prbuddy/app.py" timestamp="1546460637273" />
+      <file name="D:/repos/qwe-master/qwe-master/src/_layouts/Dashboard.js" timestamp="1549110435248" />
+      <file name="D:/repos/qwe-master/qwe-master/src/components/trainerSide/ClientPreviewMenu/ClientPreview/ClientPreviewDetails.js" timestamp="1549110336949" />
     </filemarks>
     <jumps />
     <registers />
@@ -11,7 +12,16 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
