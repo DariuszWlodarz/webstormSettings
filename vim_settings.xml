@@ -2,7 +2,9 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="D:/gofer/prbuddy/prbuddy/app.py" timestamp="1546460637273" />
+    </filemarks>
     <jumps />
     <registers />
     <search>
