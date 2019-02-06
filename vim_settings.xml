@@ -3,8 +3,12 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="D:/repos/qwe-master/qwe-master/src/_layouts/Dashboard.js" timestamp="1549110435248" />
-      <file name="D:/repos/qwe-master/qwe-master/src/components/trainerSide/ClientPreviewMenu/ClientPreview/ClientPreviewDetails.js" timestamp="1549110336949" />
+      <file name="$USER_HOME$/Documents/repos/mdp/miquido-datepicker-react/src/MiquidoDatePicker/functions.tsx" timestamp="1549458248954">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
