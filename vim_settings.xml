@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/repos/typescriptmobx/src/index.js" timestamp="1550850545242">
@@ -12,6 +12,7 @@
         <mark key="^" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="D:/repos/todo-pwa/server/server.js" timestamp="1550861006320" />
     </filemarks>
     <jumps>
       <jump line="5" column="34" filename="D:/repos/typescriptmobx/src/index.js" />
@@ -32,6 +33,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
