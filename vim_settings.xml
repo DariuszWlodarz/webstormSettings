@@ -1,8 +1,11 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/repos/typescriptmobx/src/index.js" timestamp="1550849765161">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/mdp/miquido-datepicker-react/src/MiquidoDatePicker/functions.tsx" timestamp="1549458248954">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -10,7 +13,11 @@
         <mark key="." line="75" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="5" column="34" filename="D:/repos/typescriptmobx/src/index.js" />
+      <jump line="0" column="0" filename="D:/repos/typescriptmobx/src/index.js" />
+      <jump line="10" column="0" filename="D:/repos/typescriptmobx/src/index.js" />
+    </jumps>
     <registers />
     <search>
       <last-dir>0</last-dir>
