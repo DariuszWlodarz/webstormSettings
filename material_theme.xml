@@ -1,13 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="arrowsStyle" value="Darcula" />
     <option name="compactSidebar" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="monochromeIcons" value="true" />
+    <option name="overrideAccentColor" value="true" />
     <option name="statusBarTheme" value="false" />
-    <option name="accentColor" value="388e3c" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="accentColor" value="ff79c5" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="59766ada:169b916ac89:-7fff" />
     <option name="version" value="3.8.0.2" />
   </component>
