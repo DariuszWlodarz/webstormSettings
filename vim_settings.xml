@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/repos/typescriptmobx/src/index.js" timestamp="1550850545242">
@@ -19,6 +19,11 @@
         <mark key="^" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="D:/repos/kamil1/tascaruczajnik/src/assets/view/components/MenuLightbox.jsx" timestamp="1573155890209">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="5" column="34" filename="D:/repos/typescriptmobx/src/index.js" />
@@ -31,11 +36,14 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="w" type="4">
         <text>e</text>
+      </register>
+      <register name="-" type="4">
+        <text />
       </register>
     </registers>
     <search>
@@ -54,6 +62,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
