@@ -1,10 +1,17 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/repos/typescriptmobx/src/index.js" timestamp="1550850545242">
         <mark key="'" line="10" column="0" />
+      </file>
+      <file name="D:/repos/new_frontend/src/actions/asd.js" timestamp="1572465985147">
+        <mark key="'" line="93" column="4" />
+        <mark key="[" line="94" column="11" />
+        <mark key="]" line="94" column="11" />
+        <mark key="." line="94" column="11" />
+        <mark key="^" line="94" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/repos/mdp/miquido-datepicker-react/src/MiquidoDatePicker/functions.tsx" timestamp="1549458248954">
         <mark key="[" line="75" column="0" />
@@ -12,14 +19,25 @@
         <mark key="^" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="D:/repos/todo-pwa/server/server.js" timestamp="1550861006320" />
     </filemarks>
     <jumps>
       <jump line="5" column="34" filename="D:/repos/typescriptmobx/src/index.js" />
       <jump line="0" column="0" filename="D:/repos/typescriptmobx/src/index.js" />
       <jump line="10" column="0" filename="D:/repos/typescriptmobx/src/index.js" />
+      <jump line="100" column="39" filename="D:/repos/new_frontend/src/actions/asd.js" />
+      <jump line="93" column="4" filename="D:/repos/new_frontend/src/actions/asd.js" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="w" type="4">
+        <text>e</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
