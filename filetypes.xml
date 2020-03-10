@@ -12,6 +12,7 @@
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="modalsReducer.js" type="PLAIN_TEXT" />
+      <mapping pattern="backup" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="cpgz" type="PLAIN_TEXT" />
       <mapping pattern="test" type="TypeScript" />
