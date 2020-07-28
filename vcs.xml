@@ -6,8 +6,13 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="qweqweqwe213123123" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DariuszWlodarz/EndOfMind.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\sandbox" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
