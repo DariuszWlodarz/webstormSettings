@@ -2,6 +2,14 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -14,6 +22,67 @@
         <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="D:/repos/typescriptmobx/src/index.js" timestamp="1550850545242">
+        <mark key="'" line="10" column="0" />
+      </file>
+      <file name="D:/repos/new_frontend/src/actions/asd.js" timestamp="1572465985147">
+        <mark key="'" line="93" column="4" />
+        <mark key="[" line="94" column="11" />
+        <mark key="]" line="94" column="11" />
+        <mark key="." line="94" column="11" />
+        <mark key="^" line="94" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/mdp/miquido-datepicker-react/src/MiquidoDatePicker/functions.tsx" timestamp="1549458248954">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1602356990151">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/repos/kamil1/tascaruczajnik/src/assets/view/components/MenuLightbox.jsx" timestamp="1573155890209">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="D:/repos/new_frontend/src/containers/MyTrips/MyTrips.js" timestamp="1574797155331">
+        <mark key="[" line="44" column="2" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="34" filename="D:/repos/typescriptmobx/src/index.js" />
+      <jump line="0" column="0" filename="D:/repos/typescriptmobx/src/index.js" />
+      <jump line="10" column="0" filename="D:/repos/typescriptmobx/src/index.js" />
+      <jump line="100" column="39" filename="D:/repos/new_frontend/src/actions/asd.js" />
+      <jump line="93" column="4" filename="D:/repos/new_frontend/src/actions/asd.js" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="w" type="4">
+        <text>e</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
