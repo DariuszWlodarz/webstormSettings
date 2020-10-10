@@ -4,7 +4,7 @@
     <property name="created">2017-04-19T12:20:30</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2020-01-08T12:12:12</property>
+    <property name="modified">2020-10-10T21:08:48</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -706,6 +706,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_COMMENT">
       <value>
         <option name="FOREGROUND" value="75715e" />
@@ -741,6 +744,31 @@
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fda5ff" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="363724" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="2d3729" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="362e32" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2a3630" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="422621" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -850,6 +878,14 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LABEL">
       <value>
         <option name="FOREGROUND" value="f92672" />
@@ -862,7 +898,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3a6da0" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
