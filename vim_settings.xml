@@ -42,7 +42,7 @@
         <mark key="^" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1602358829263">
+      <file name="/GraphQL.result.json" timestamp="1603019004307">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/repos/kamil1/tascaruczajnik/src/assets/view/components/MenuLightbox.jsx" timestamp="1573155890209">
@@ -53,6 +53,7 @@
       <file name="D:/repos/new_frontend/src/containers/MyTrips/MyTrips.js" timestamp="1574797155331">
         <mark key="[" line="44" column="2" />
       </file>
+      <file name="D:/sandbox/fullstack-graphql/client/src/index.js" timestamp="1603019042430" />
     </filemarks>
     <jumps>
       <jump line="5" column="34" filename="D:/repos/typescriptmobx/src/index.js" />
