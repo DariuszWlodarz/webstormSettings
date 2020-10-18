@@ -48,10 +48,11 @@
       <file name="/GraphQL.result.json" timestamp="1603019004307">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/sandbox/fullstack-graphql/client/src/client.js" timestamp="1603026630074">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="D:/sandbox/fullstack-graphql/client/src/client.js" timestamp="1603027512152">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="18" />
+        <mark key="^" line="23" column="19" />
       </file>
       <file name="D:/repos/kamil1/tascaruczajnik/src/assets/view/components/MenuLightbox.jsx" timestamp="1573155890209">
         <mark key="[" line="73" column="0" />
