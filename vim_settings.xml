@@ -30,6 +30,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -54,12 +57,12 @@
       <file name="/GraphQL.result.json" timestamp="1603019004307">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/sandbox/fullstack-graphql/client/src/client.js" timestamp="1603053505290">
+      <file name="D:/sandbox/fullstack-graphql/client/src/client.js" timestamp="1603054121786">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
-        <mark key="^" line="9" column="11" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="21" />
       </file>
       <file name="D:/repos/kamil1/tascaruczajnik/src/assets/view/components/MenuLightbox.jsx" timestamp="1573155890209">
         <mark key="[" line="73" column="0" />
