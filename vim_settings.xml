@@ -48,10 +48,10 @@
       <file name="/GraphQL.result.json" timestamp="1603019004307">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/sandbox/fullstack-graphql/client/src/client.js" timestamp="1603026474929">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/sandbox/fullstack-graphql/client/src/client.js" timestamp="1603026630074">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/repos/kamil1/tascaruczajnik/src/assets/view/components/MenuLightbox.jsx" timestamp="1573155890209">
         <mark key="[" line="73" column="0" />
@@ -74,21 +74,24 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgY2hhcmFjdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBfX3R5cGVuYW1lCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgY2hhcmFjdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBfX3R5cGVuYW1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xpZW50Cg==</text>
+        <text encoding="base64">Y29uc3QgY2hhcmFjdGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xpZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY2xpZW50ID0gbmV3IEFwb2xsb0NsaWVudCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgY2xpZW50ID0gbmV3IEFwb2xsb0NsaWVudCgpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
