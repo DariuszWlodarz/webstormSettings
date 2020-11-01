@@ -33,6 +33,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -71,6 +77,11 @@
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
+      </file>
+      <file name="D:/wedme/gift/wishlist.html" timestamp="1604247387727">
+        <mark key="[" line="84" column="25" />
+        <mark key="]" line="84" column="25" />
+        <mark key="." line="84" column="25" />
       </file>
       <file name="D:/repos/new_frontend/src/containers/MyTrips/MyTrips.js" timestamp="1574797155331">
         <mark key="[" line="44" column="2" />
