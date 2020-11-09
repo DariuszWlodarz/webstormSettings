@@ -63,7 +63,7 @@
         <mark key="^" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1604265823722">
+      <file name="/GraphQL.result.json" timestamp="1604922659147">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/sandbox/fullstack-graphql/client/src/client.js" timestamp="1603054121786">
@@ -78,10 +78,10 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="D:/wedme/gift/wishlist.html" timestamp="1604247452391">
-        <mark key="[" line="84" column="28" />
-        <mark key="]" line="84" column="28" />
-        <mark key="." line="84" column="27" />
+      <file name="D:/wedme/gift/wishlist.html" timestamp="1604922703748">
+        <mark key="[" line="121" column="32" />
+        <mark key="]" line="121" column="33" />
+        <mark key="." line="121" column="33" />
         <mark key="^" line="84" column="28" />
       </file>
       <file name="D:/repos/new_frontend/src/containers/MyTrips/MyTrips.js" timestamp="1574797155331">
@@ -105,8 +105,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBfX3R5cGVuYW1lCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfX3R5cGVuYW1lCg==</text>
+      <register name="&quot;" type="4">
+        <text>Włodka</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y29uc3QgY2hhcmFjdGVyCg==</text>
@@ -127,7 +127,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Włodka</text>
       </register>
     </registers>
   </component>
