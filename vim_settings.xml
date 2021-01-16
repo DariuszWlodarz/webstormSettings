@@ -44,12 +44,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/repos/typescriptmobx/src/index.js" timestamp="1550850545242">
-        <mark key="'" line="10" column="0" />
-      </file>
-      <file name="D:/wedme/wedme-wishlist/src/Wishlist/Wishlist.js" timestamp="1608231624533">
-        <mark key="[" line="88" column="9" />
-      </file>
       <file name="D:/repos/new_frontend/src/actions/asd.js" timestamp="1572465985147">
         <mark key="'" line="93" column="4" />
         <mark key="[" line="94" column="11" />
@@ -60,14 +54,37 @@
       <file name="D:/repos/frontend-tutorial/.gitignore" timestamp="1604183141248">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1610831641243">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/repos/kamil1/tascaruczajnik/src/assets/view/components/MenuLightbox.jsx" timestamp="1573155890209">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="D:/sandbox/game1/components/CardsHand.js" timestamp="1610831702232">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="9" />
+      </file>
+      <file name="D:/repos/new_frontend/src/containers/MyTrips/MyTrips.js" timestamp="1574797155331">
+        <mark key="[" line="44" column="2" />
+      </file>
+      <file name="D:/repos/typescriptmobx/src/index.js" timestamp="1550850545242">
+        <mark key="'" line="10" column="0" />
+      </file>
+      <file name="D:/wedme/wedme-wishlist/src/Wishlist/Wishlist.js" timestamp="1608231624533">
+        <mark key="[" line="88" column="9" />
+      </file>
+      <file name="D:/sandbox/game1/components/Card/Card.module.scss" timestamp="1610832025083">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/repos/mdp/miquido-datepicker-react/src/MiquidoDatePicker/functions.tsx" timestamp="1549458248954">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="^" line="75" column="0" />
         <mark key="." line="75" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1608231515192">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/sandbox/fullstack-graphql/client/src/client.js" timestamp="1603054121786">
         <mark key="'" line="12" column="0" />
@@ -76,21 +93,17 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="21" />
       </file>
-      <file name="D:/repos/kamil1/tascaruczajnik/src/assets/view/components/MenuLightbox.jsx" timestamp="1573155890209">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
       <file name="D:/wedme/gift/wishlist.html" timestamp="1604922703748">
         <mark key="[" line="121" column="32" />
         <mark key="]" line="121" column="33" />
         <mark key="." line="121" column="33" />
         <mark key="^" line="84" column="28" />
       </file>
-      <file name="D:/repos/new_frontend/src/containers/MyTrips/MyTrips.js" timestamp="1574797155331">
-        <mark key="[" line="44" column="2" />
+      <file name="D:/sandbox/game1/components/Card/Card.js" timestamp="1610831989436">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
       </file>
-      <file name="D:/wedme/wedme-wishlist/src/Wishlist/translation.js" timestamp="1608231715181" />
     </filemarks>
     <jumps>
       <jump line="5" column="34" filename="D:/repos/typescriptmobx/src/index.js" />
@@ -110,7 +123,7 @@
         <text encoding="base64">ICAgICAgICBfX3R5cGVuYW1lCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Włodka</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y29uc3QgY2hhcmFjdGVyCg==</text>
@@ -131,7 +144,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Włodka</text>
+        <text encoding="base64">Pg==</text>
       </register>
     </registers>
   </component>
@@ -142,7 +155,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
