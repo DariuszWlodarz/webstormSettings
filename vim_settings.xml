@@ -68,6 +68,9 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="9" />
       </file>
+      <file name="D:/sandbox/game1/pages/character/Character.js" timestamp="1610838455001">
+        <mark key="[" line="10" column="23" />
+      </file>
       <file name="D:/repos/new_frontend/src/containers/MyTrips/MyTrips.js" timestamp="1574797155331">
         <mark key="[" line="44" column="2" />
       </file>
@@ -155,7 +158,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
