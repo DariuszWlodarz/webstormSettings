@@ -3,14 +3,14 @@
     <property name="created">2019-03-26T09:21:05</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2021-01-20T20:42:20</property>
+    <property name="modified">2021-10-05T22:53:26</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="b5bd68" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_COPIED" value="659d9a" />
-    <option name="FILESTATUS_DELETED" value="727072" />
-    <option name="FILESTATUS_HIJACKED" value="f0c674" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cc6666" />
@@ -20,10 +20,10 @@
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="" />
-    <option name="FILESTATUS_SUPPRESSED" value="727072" />
-    <option name="FILESTATUS_SWITCHED" value="b294bb" />
-    <option name="FILESTATUS_UNKNOWN" value="f59762" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="b5bd68" />
     <option name="FILESTATUS_changelistConflict" value="cc6666" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
