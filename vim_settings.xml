@@ -48,6 +48,9 @@
       <shortcut-conflict owner="vim">
         <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -173,7 +176,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="false" />
+    <state version="7" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
