@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="data" type="AUTO_DETECTED" />
+      <mapping pattern="cardsActions" type="AUTO_DETECTED" />
+      <mapping pattern="character.js" type="JavaScript" />
+      <mapping pattern="ccc" type="PLAIN_TEXT" />
+      <mapping pattern="backup" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess " type="PLAIN_TEXT" />
+      <mapping pattern="modalsReducer.js" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env.stage" type="PLAIN_TEXT" />
+      <mapping pattern="dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping ext="cpgz" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>

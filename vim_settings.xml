@@ -1,0 +1,191 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEM=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFM=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFc=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE9QRU5fQlJBQ0tFVA==</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFg=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFU=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEk=</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="D:/repos/new_frontend/src/actions/asd.js" timestamp="1572465985147">
+        <mark key="'" line="93" column="4" />
+        <mark key="[" line="94" column="11" />
+        <mark key="]" line="94" column="11" />
+        <mark key="." line="94" column="11" />
+        <mark key="^" line="94" column="11" />
+      </file>
+      <file name="D:/repos/frontend-tutorial/.gitignore" timestamp="1604183141248">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/sandbox/nodebook/chat_app/public/index.html" timestamp="1617095551603">
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="14" column="57" />
+        <mark key="^" line="14" column="57" />
+        <mark key="." line="14" column="56" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1617095383008">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/repos/kamil1/tascaruczajnik/src/assets/view/components/MenuLightbox.jsx" timestamp="1573155890209">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="D:/sandbox/game1/components/CardsHand.js" timestamp="1610831702232">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="9" />
+      </file>
+      <file name="D:/sandbox/game1/pages/character/Character.js" timestamp="1610838455001">
+        <mark key="[" line="10" column="23" />
+      </file>
+      <file name="D:/repos/new_frontend/src/containers/MyTrips/MyTrips.js" timestamp="1574797155331">
+        <mark key="[" line="44" column="2" />
+      </file>
+      <file name="D:/repos/typescriptmobx/src/index.js" timestamp="1550850545242">
+        <mark key="'" line="10" column="0" />
+      </file>
+      <file name="D:/wedme/wedme-wishlist/src/Wishlist/Wishlist.js" timestamp="1608231624533">
+        <mark key="[" line="88" column="9" />
+      </file>
+      <file name="D:/sandbox/game1/components/Card/Card.module.scss" timestamp="1610832025083">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/mdp/miquido-datepicker-react/src/MiquidoDatePicker/functions.tsx" timestamp="1549458248954">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="D:/sandbox/fullstack-graphql/client/src/client.js" timestamp="1603054121786">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="21" />
+      </file>
+      <file name="D:/wedme/gift/wishlist.html" timestamp="1604922703748">
+        <mark key="[" line="121" column="32" />
+        <mark key="]" line="121" column="33" />
+        <mark key="." line="121" column="33" />
+        <mark key="^" line="84" column="28" />
+      </file>
+      <file name="D:/sandbox/game1/components/Card/Card.js" timestamp="1610831989436">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="34" filename="D:/repos/typescriptmobx/src/index.js" />
+      <jump line="0" column="0" filename="D:/repos/typescriptmobx/src/index.js" />
+      <jump line="10" column="0" filename="D:/repos/typescriptmobx/src/index.js" />
+      <jump line="100" column="39" filename="D:/repos/new_frontend/src/actions/asd.js" />
+      <jump line="93" column="4" filename="D:/repos/new_frontend/src/actions/asd.js" />
+      <jump line="0" column="0" filename="D:/sandbox/fullstack-graphql/client/src/client.js" />
+      <jump line="9" column="2" filename="D:/sandbox/fullstack-graphql/client/src/client.js" />
+      <jump line="25" column="0" filename="D:/sandbox/fullstack-graphql/client/src/client.js" />
+      <jump line="12" column="0" filename="D:/sandbox/fullstack-graphql/client/src/client.js" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBfX3R5cGVuYW1lCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgY2hhcmFjdGVyCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xpZW50Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgY2xpZW50ID0gbmV3IEFwb2xsb0NsaWVudCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="w" type="4">
+        <text>e</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="7" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
