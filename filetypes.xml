@@ -20,6 +20,7 @@
       <mapping ext="cpgz" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping pattern="test" type="TypeScript" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
